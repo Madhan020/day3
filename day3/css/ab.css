@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+li{
+    display: inline;
+    list-style-type: none;
+    margin: 70px;
+    font-size: large;
+}
+li:hover{
+    color: grey ;
+}
+.qw{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(109, 40, 40);
+    height: 75px;
+    width: 100%;
+    align-items: center;
+    color: white;
+}
+img{
+    width: 10%;
+    
+}
+.er{
+    width: 100%;
+
+}
+.ty{
+    display: flex;
+    flex-direction: row;
+}    
+
+.a{
+    width: 50%;
+    padding-top: 80px;
+    padding-left: 60px;
+    
+}
+.b{
+   width: 70%;
+   height: auto;
+   padding-left: 10%;
+}
+
+
+.ui{
+    display: flex;
+    flex-direction: row;
+    
+}
+.c {
+    width: 70%;
+    padding: 30px;
+}
+.d{
+    width: 70%;
+    padding: 30px;
+    height: 70%;
+}
+.e{
+    width: 70%;
+    padding: 30px;
+}
+h2{
+    text-decoration: underline;
+    text-align: end;
+}
+.op{
+    display: flex;
+    flex-direction: row;
+    
+}
+.f {
+    width: 70%;
+    padding: 30px;
+}
+.g{
+    width: 70%;
+    padding: 30px;
+}
+.h{
+    width: 70%;
+    padding: 30px;
+}
+.i{
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-bottom: 20px;
+}
+.form{
+    margin-left: auto;
+    margin-right: auto;
+}
+footer{
+    text-align: center;
+    font-size: large;
+    background-color: rgb(109, 40, 40);
+    padding: 20px;
+    color: white;
+}
